@@ -1,0 +1,165 @@
+.border {
+    border: 4px solid blueviolet;
+    border-radius: 0px;
+    background-image: url("http://localhost:3000/static/media/project%20background.395e0ae70dc51a0cd979.jpg");
+    height: 767px;
+    width: 100.6%;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.border2 {
+    border: 5px solid black;
+    background-color: white;
+    height: 468px;
+    margin-top: 25px;
+    border-radius: 23px;
+    margin-left: 485px;
+    margin-right: 123px;
+    width: 466px;
+}
+
+::placeholder {
+    text-align: center;
+}
+
+.login {
+    margin-left: 22%;
+    height: 37px;
+    margin-top: 53px;
+    width: 270px;
+    border-radius: 10px;
+    border-color: darkslategray;
+    box-shadow: 1px 2px;
+}
+
+.loginbutton{
+    margin-left: 22%;
+    height: 45px;
+    margin-top: 53px;
+    width: 270px;
+    border-radius: 10px;
+    border-color: darkslategray;
+    background-color:#4682A9
+}
+.loginpass {
+    margin-left: 22%;
+    height: 37px;
+    margin-top: 27px;
+    border-color: darkslategray;
+    box-shadow: 1px 2px;
+    width: 270px;
+    border-radius: 10px;
+}
+
+.check {
+    margin-left: -41px;
+    border-color: darkslategray;
+    box-shadow: 1px 2px;
+}
+
+.logintitle {
+    border: 1px solid black;
+    height: 93px;
+    width: 335px;
+    border-radius: 35px;
+    background-color: chartreuse;
+    margin-left: 75px;
+    margin-top: 19px;
+    box-shadow: 5px 5px 15px;
+
+}
+
+.bordertitle {
+    border: 1px solid black;
+    width: 698px;
+    margin-left: 29%;
+    margin-top: 2%;
+    border-radius: 29px;
+    height: 89px;
+    box-shadow: 1px 3px;
+    background-color: gold;
+
+}
+
+.infromation {
+    border: 1px solid black;
+    color: red;
+    width: 1299px;
+    margin-left: 13px;
+    border-radius: 15px;
+    background-color: black;
+    margin-top: 31px;
+}
+
+.createaccount {
+    border: 4px solid blueviolet;
+    border-radius: 10px;
+    background-image: url('C:\Users\HP\gopikrishnan\src\project background.jpg');
+    height: 767px;
+    width: 100.6%;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.createaccountborder {
+    border: 1px solid black;
+    height: 502px;
+    margin-top: 62px;
+    width: 403px;
+    margin-left: 485px;
+    background-color: white;
+    box-shadow: 1px 1px 19px;
+}
+
+.name {
+    height: 34px;
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 160px;
+    box-shadow: 1px 2px 8px;
+    border-color: brown;
+}
+
+.date {
+    height: 34px;
+    margin-left: 20px;
+    margin-top: 31px;
+    width: 347px;
+    box-shadow: 1px 2px 8px;
+    border-color: brown;
+}
+
+.email {
+    height: 34px;
+    margin-left: 23px;
+    margin-top: 26px;
+    width: 345px;
+    box-shadow: 1px 2px 8px;
+    border-color: brown;
+}
+
+.password {
+    height: 34px;
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 345px;
+    box-shadow: 1px 2px 8px;
+    border-color: brown;
+}
+
+.cpassword {
+    height: 34px;
+    margin-left: 25px;
+    margin-top: 11px;
+    width: 345px;
+    box-shadow: 1px 2px 8px;
+    border-color: brown;
+}
+
+.createaccounttitle {
+    border: 2px solid blue;
+    text-align: center;
+    background-color: blue;
+}
+
